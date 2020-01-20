@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Task Reminder</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Task Reminder</string>
+    <string name="nav_header_subtitle">Manage Tasks Easily</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_cardetails">Click on the button below to begin creating your reminder!</string>
+    <string name="title_activity_add_reminder">Add Reminder</string>
+    <string name="title_activity_edit_reminder">Edit Reminder</string>
+    <string name="title_activity_licenses">Licenses</string>
+
+    <string name="add_reminder">Enter Reminder Title</string>
+    <string name="details">Details</string>
+    <string name="date">Due Date</string>
+    <string name="time">Due Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+    <string name="done_reminders">Done Reminders</string>
+
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+
+    <string name="editor_activity_title_new_reminder">Add Reminder Details</string>
+    <string name="editor_activity_title_edit_reminder">Edit Reminder</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Reminder?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_reminder_successful">Reminder deleted</string>
+
+    <string name="editor_delete_reminder_failed">Error with deleting reminder</string>
+
+    <string name="editor_insert_reminder_successful">Reminder saved</string>
+
+    <string name="editor_insert_reminder_failed">Error with saving reminder</string>
+
+    <string name="editor_update_reminder_successful">Reminder updated</string>
+
+    <string name="editor_update_reminder_failed">Error with updating reminder</string>
+
+    <string name="reminder_title">AlarmReminder</string>
+    <string name="no_reminders">No reminders. To create a reminder, click on the plus button at the bottom right of the screen.</string>
+    <string name="licenses">Licenses</string>
+    <string name="action_delete_all">Delete all tasks</string>
+    <string name="reminder_description">Enter Brief Description</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="pin">PIN</string>
+    <string name="action_delete_selected">Deleted Selected Items</string>
+
+    <string name="to_create_task">This app allows you to create tasks, save them and get a reminder in the future. To create a new task,
+        click on the plus button shown below</string>
+    <string name="to_save_task">In order to save a task, make sure you fill all the fields i.e.reminder title, description, date and time an then click the tick button shown to save.
+        You can optionally choose to repeat a task by switching on repeat. You can enter repetition interval and select repeat type too. Remember the date and time you chose, is when you will get a reminder. </string>
+    <string name="to_delete_task">Click on the task and select delete button shown. The reminder will be deleted too.You can click on done icon to move tasks to the ones that are done.</string>
+    <string name="to_edit_task">Click on the task icon and edit as required then click the save button to update the reminder. You can turn off notification by clicking notification icon at the bottom</string>
+    <string name="to_delete_all_tasks">Click on the delete button shown to delete all tasks including reminders. You can select delete icon to delete all tasks, either completed or uncompleted</string>
+    <string name="to_view_completed_task_history">Click on Completed Task history. Remember to Click on done button after selecting one or more tasks
+     You can exit, share the app, change pin or sign out any time.</string>
+    <string name="action_done">Done</string>
+    <string name="action_search">Search</string>
+    <string name="intial_release">Initial Release\nFeatures:\n. Ability to create tasks\n. Ability to set Reminders\n. Delete single and multiple tasks\n. View Created tasks</string>
+    <string name="version_2_2_0">. Added Done Tasks\n. Added Task Analysis\n. Support Navigation Drawer\n. Added multiple seletion\n. Sorting by date\n. Added Search functionality\n. Changed font</string>
+    <string name="stars">* * * * * * * * * * *</string>
+    <string name="v_2_2_0">* Version 2.2.0</string>
+    <string name="v_1_2_0">* Version 1.1.0</string>
+    <string name="ok">OK</string>
+    <string name="progress">Progress</string>
+    <string name="to_toggle_charts">Click on the 3 dots to view between different charts</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_change_pin"
+            android:icon="@drawable/edit"
+            android:title="Change PIN" />
+        <item
+            android:id="@+id/nav_completed_tasks"
+            android:icon="@drawable/done"
+            android:title="Completed Tasks " />
+        <item
+            android:id="@+id/nav_task_analysis"
+            android:icon="@drawable/task_analysis"
+            android:title="Task Analysis" />
+
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/exit"
+            android:title="Exit" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/help"
+                android:title="Help" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ation_about"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4285F4</color>
+    <color name="colorPrimaryDark">#3F7ADC</color>
+    <color name="colorAccent">#ff6600</color>
+    <color name="fab_pressed">#EDEFF0</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="secondaryBlack">#6D6A6A</color>
+    <color name="transparent">#f1f5f8</color>
+    <color name="light_grey">#E7EAEB</color>
+    <color name="darkBlue">#000C5D</color>
+    <color name="green">#69e781</color>
+    <color name="toolbar_title">#ffffff</color>
+    <color name="mdtp_accent_color">@color/colorPrimary</color>
+    <color name="mdtp_button_color">@color/colorAccent</color>
+    <color name="mdtp_calendar_header">@color/colorPrimaryDark</color>
+    <color name="gradient_start_color">#4c84ff</color>
+
+    <color name="gradient_end_color">#18a3fe</color>
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+
+    <color name="intro_title_color">#000000</color>
+
+    <color name="intro_description_color">#656565</color>
+
+
+</resources>
